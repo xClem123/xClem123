@@ -28,4 +28,3 @@
  ![MacOS](https://img.shields.io/badge/MACOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 
--By @swatteur
